@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1635965054 source:d:\ahmed\tasks\caeser\main.cpp
+	<iostream>
+	<cmath>
+	<algorithm>
+	<string>
+	<iomanip>
+	<vector>
+
